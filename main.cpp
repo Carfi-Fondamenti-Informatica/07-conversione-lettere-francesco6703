@@ -1,5 +1,5 @@
 #include <iostream>
-#include "cmake-build-debug/lib.h"
+#include "lib.h"
 
 int main() {
 char a;
