@@ -2,7 +2,6 @@
 
 bool funzione(char a)
 {
-    char a;
     if(a>=65 && a<=90)
     {
         a=a+32;
@@ -21,7 +20,6 @@ bool funzione(char a)
 
 char funz1(char a)
 {
-    char a;
     if(a>=65 && a<=90)
     {
         a=a+32;
